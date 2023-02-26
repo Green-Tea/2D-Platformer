@@ -1,0 +1,8 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/Style.uss?fileID=7433441132597879392&amp;guid=fe3e1dee639b83f42b2ea04bf830280c&amp;type=3#Style" />
+    <ui:Label text="Guardian Of The Forest" display-tooltip-when-elided="true" style="justify-content: center; align-items: center; white-space: normal; -unity-text-align: upper-center; font-size: 200px; -unity-font: url(&apos;project://database/Assets/Angel%20wish.ttf?fileID=12800000&amp;guid=f71a0accd2c47f749aea40b4d068689e&amp;type=3#Angel wish&apos;); -unity-font-definition: none; margin-top: 50px; color: rgb(255, 255, 255);" />
+    <ui:Button text="Level 1" display-tooltip-when-elided="true" name="level1" class="button-style" />
+    <ui:Button text="Level 2" display-tooltip-when-elided="true" name="level2" class="button-style" />
+    <ui:Button text="Level 3" display-tooltip-when-elided="true" name="level3" class="button-style" />
+    <ui:Button text="Quit" display-tooltip-when-elided="true" name="quit" class="button-style" />
+</ui:UXML>

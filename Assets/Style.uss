@@ -1,0 +1,47 @@
+.button-style {
+    -unity-font: url('project://database/Assets/Angel%20wish.ttf?fileID=12800000&guid=f71a0accd2c47f749aea40b4d068689e&type=3#Angel wish');
+    -unity-font-definition: none;
+    font-size: 60px;
+    width: 15%;
+    height: 10%;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    margin-top: 80px;
+    left: 40%;
+}
+
+.button-style:hover {
+    -unity-font: url('project://database/Assets/Angel%20wish.ttf?fileID=12800000&guid=f71a0accd2c47f749aea40b4d068689e&type=3#Angel wish');
+    -unity-font-definition: none;
+    font-size: 60px;
+    width: 15%;
+    height: 10%;
+    color: rgb(0, 0, 0);
+    background-color: rgb(221, 221, 221);
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    margin-top: 80px;
+    left: 40%;
+}
+
+.button-style:active {
+    -unity-font: url('project://database/Assets/Angel%20wish.ttf?fileID=12800000&guid=f71a0accd2c47f749aea40b4d068689e&type=3#Angel wish');
+    -unity-font-definition: none;
+    font-size: 60px;
+    width: 15%;
+    height: 10%;
+    color: rgb(0, 0, 0);
+    background-color: rgb(204, 202, 202);
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    margin-top: 80px;
+    left: 40%;
+}
